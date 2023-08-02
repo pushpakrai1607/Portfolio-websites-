@@ -7,13 +7,13 @@ const Testimonial = () => {
 
       <section>
         <TestimonialCard
-          name={"John Simmmons"}
-          feedback={"Wow what a portfolio, doesn't expected this to be on youtube!"}
+          name={"John eric"}
+          feedback={"Wow what a portfolio.I started my software development career as an intern. "}
         />
 
 <TestimonialCard
-          name={"Bessie Simmmons"}
-          feedback={"Your Teaching skills are so good."}
+          name={"Bessie Simmons"}
+          feedback={"We would like to express our satisfaction on the cooperation regarding the development of our web application."}
         />
 
       </section>

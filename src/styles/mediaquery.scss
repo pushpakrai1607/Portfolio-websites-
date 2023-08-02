@@ -25,10 +25,10 @@
         }
         .workItem {
           padding: 2rem;
-          height: 20rem;
+          height: 22rem;
           > aside {
             > p {
-              margin: 1rem;
+              margin: 0rem;
             }
             > a {
               margin: 1rem;
@@ -129,10 +129,10 @@
       padding: 8rem $p_zero;
       > section {
         > article {
-          height: 25rem;
+          height: 22rem;
         }
         .workItem {
-          height: 25rem;
+          height: 20rem;
         }
       }
     }
