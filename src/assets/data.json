@@ -9,14 +9,14 @@
     },
 
     {
-      "date": "11/10/2022",
-      "title": "VIDEO HUB",
-      "description": "Video hub web app using React",
-      "url": "https://react-video-app-eight.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      "date": "11/8/2023",
+      "title": "Dashboard",
+      "description": "A dashboard website is a type of website that displays various types of data in a visual and interactive way.",
+      "url": "https://dashboard-websitess.vercel.app/",
+      "imgSrc": "https://foswiki.org/pub/Extensions/GoogleAnalyticsPlugin/Google_Analytics_Dashboard.png"
     },
     {
-      "date": "15/10/2022",
+      "date": "15/12/2022",
       "title": "XCrypto",
       "description": "The XCrypto is a Cryptocurrency web application developed using Reactjs for providing the latest updates, value statistics, market cap, supply and news regarding the Cryptocurrency market.",
       "url": "https://react-crypto-app-lyart.vercel.app/",
@@ -24,11 +24,11 @@
     },
 
     {
-      "date": "17/10/2022",
-      "title": "REACT CART",
-      "description": "Shopping cart implemented in react.js and redux.js",
-      "url": "https://react-cart-eosin.vercel.app",
-      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      "date": "17/9/2022",
+      "title": "E Commerce Website",
+      "description": "E commerce website. Ecommerce websites are built to connect shoppers to products or services for trading online. ",
+      "url": "https://e-commerce-website-seven.vercel.app/",
+      "imgSrc": "https://foswiki.org/pub/Extensions/GoogleAnalyticsPlugin/Google_Analytics_Dashboard.png"
     },
     {
       "date": "20/10/2022",
