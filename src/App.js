@@ -5,7 +5,7 @@ import Timeline from './components/Timeline';
 import Service from './components/Service';
 import Testimonial from './components/Testimonial';
 import Contact from './components/Contact';
-import { Toaster } from 'react-hot-toast';
+import  { Toaster } from 'react-hot-toast';
 import Footer from './components/Footer.jsx'
 
 import './styles/app.scss';
@@ -24,7 +24,7 @@ return (
       <Testimonial />
       <Contact />
       <Footer />
-      <Toaster />
+      < Toaster/>
     </>
   )
 }

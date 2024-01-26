@@ -94,19 +94,18 @@
         overflow-x: hidden;
   
         &::after {
-          content: "";
-          width: 40vmax;
-          height: 40vmax;
-          background-color: $color3;
+          content: "";    width: 25vmax;
+          height: 29vmax;
+          background-color: #f26440;
           position: absolute;
           z-index: -1;
-          border-radius: 50%;
+          border-radius: 4%;
         }
   
         > img {
-          width: 40vmax;
+          width: 22vmax;
           object-fit: contain;
-          height: 40vmax;
+          height: 30vmax;
         }
       }
     }
@@ -123,5 +122,5 @@
   }
 
   .myImg{
-    border-radius: 50%;
+    border-radius: 10%;
   }

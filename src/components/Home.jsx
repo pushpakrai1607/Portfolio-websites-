@@ -9,21 +9,14 @@ const Home = () => {
   const projectCount = useRef(null);
 
   const animationClientsCount = () => {
-<<<<<<< HEAD
-    animate(0, 1, {
-=======
+
     animate(0, 10, {
->>>>>>> origin/master
       duration: 1,
       onUpdate: (v) => (clientCount.current.textContent = v.toFixed()),
     });
   };
   const animationProjectsCount = () => {
-<<<<<<< HEAD
     animate(0, 5, {
-=======
-    animate(0, 20, {
->>>>>>> origin/master
       duration: 1,
       onUpdate: (v) => (projectCount.current.textContent = v.toFixed()),
     });
@@ -98,11 +91,7 @@ const Home = () => {
                     ref={projectCount}
                     whileInView={animationProjectsCount}
                   >
-<<<<<<< HEAD
                     5
-=======
-                    10
->>>>>>> origin/master
                   </motion.span>
                
               </p>
@@ -117,7 +106,7 @@ const Home = () => {
         </div>
       </section>
       <section>
-        <img className="myImg" src={me} alt="pushpak" />
+        <img className="myImg" src={me} alt="pushpak" height={200} width={100} />
       </section>
       <BsChevronDown />
     </div>

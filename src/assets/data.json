@@ -13,14 +13,14 @@
       "title": "Dashboard",
       "description": "A dashboard website is a type of website that displays various types of data in a visual and interactive way.",
       "url": "https://dashboard-websitess.vercel.app/",
-      "imgSrc": "https://foswiki.org/pub/Extensions/GoogleAnalyticsPlugin/Google_Analytics_Dashboard.png"
+      "imgSrc": "https://th.bing.com/th/id/R.197ed02f4255af91dffc9102418a5a36?rik=WqH2%2baKZC1trew&riu=http%3a%2f%2fjoshua.doodnauth.com%2fwp-content%2fuploads%2f2014%2f03%2ftodo-dashboard.jpg&ehk=dxl9JrPPwevMZqNNEbQuc5NQIoKUTwt8NmCACVsJn6E%3d&risl=&pid=ImgRaw&r=0"
     },
     {
       "date": "15/12/2022",
       "title": "XCrypto",
       "description": "The XCrypto is a Cryptocurrency web application developed using Reactjs for providing the latest updates, value statistics, market cap, supply and news regarding the Cryptocurrency market.",
       "url": "https://react-crypto-app-lyart.vercel.app/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      "imgSrc": "https://th.bing.com/th/id/R.197ed02f4255af91dffc9102418a5a36?rik=WqH2%2baKZC1trew&riu=http%3a%2f%2fjoshua.doodnauth.com%2fwp-content%2fuploads%2f2014%2f03%2ftodo-dashboard.jpg&ehk=dxl9JrPPwevMZqNNEbQuc5NQIoKUTwt8NmCACVsJn6E%3d&risl=&pid=ImgRaw&r=0"
     },
 
     {
@@ -28,21 +28,14 @@
       "title": "E Commerce Website",
       "description": "E commerce website. Ecommerce websites are built to connect shoppers to products or services for trading online. ",
       "url": "https://e-commerce-website-seven.vercel.app/",
-      "imgSrc": "https://foswiki.org/pub/Extensions/GoogleAnalyticsPlugin/Google_Analytics_Dashboard.png"
+      "imgSrc": "https://technofaq.org/wp-content/uploads/2019/11/c-users-admin-pictures-ecommerce-jpg-600x421.jpeg"
     },
     {
       "date": "20/10/2022",
-<<<<<<< HEAD
       "title": "StarBucks",
       "description": "Starbucks Homepage, where you can see the original design and layout of the Starbucks website. You can inspect the elements and styles using your browser’s developer tools and try to replicate them",
       "url": "https://github.com/pushpakrai1607/starbucks-clone-website-.git",
       "imgSrc": "https://user-images.githubusercontent.com/91425169/159282727-307d47aa-8e42-457a-b0aa-b9cefc605b3b.png"
-=======
-      "title": "PORTFOLIO",
-      "description": "Portfolio Template built with react.js and sass that helps you showcase your work and skills as a software developer",
-      "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
->>>>>>> origin/master
     }
   ]
 }
