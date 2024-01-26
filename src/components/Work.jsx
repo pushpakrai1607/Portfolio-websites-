@@ -38,4 +38,7 @@ const Work = () => {
 };
 
 export default Work;
+<<<<<<< HEAD
   
+=======
+>>>>>>> origin/master
